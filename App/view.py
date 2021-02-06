@@ -92,10 +92,6 @@ while True:
         booktags = loadBooksTags()
         print('Total de Book-Tags cargados: ' + str(lt.size(booktags)))
 
-    elif True:
-        # TO-DO: Modificación de Est-2 en el Lab 2
-        pass
-
     else:
         sys.exit(0)
 sys.exit(0)
